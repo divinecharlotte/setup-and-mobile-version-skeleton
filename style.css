@@ -1,24 +1,29 @@
-header{
-    font-family: Poppins;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 52px;
-    letter-spacing: 0em;
-    text-align: left;}
-    
-    
-    
+header {
+  height: 72px;
+width: 1440px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
     .flex-container {
-        display: flex;
-        background-color: #FFFFFF;
-        justify-content: center;
-      }
-      .flex-container > div {
-        background-color: #f1f1f1;
-        width: 447px;
-        height: 102px;
-        top:126px;
-      }
-      
-      
+      display: flex;
+      background-color: #FFFFFF;
+      justify-content: center;
+  } 
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 447px;
+    height: 102px;
+    top:126px;
+  }
+     
+  h2 {
+    height: 846px;
+width: 1440px;
+left: 0px;
+top: 71px;
+border-radius: 0px;
+
+  }
