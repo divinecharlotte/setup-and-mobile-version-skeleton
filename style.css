@@ -1,0 +1,21 @@
+header {
+  height: 72px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: #FFFFFF;
+  justify-content: center;
+} 
+     
+h2 {
+  height: 846px;
+  width: 1440px;
+  left: 0px;
+  top: 71px;
+  border-radius: 0px;
+}
