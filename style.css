@@ -11,13 +11,6 @@ border-radius: 0px;
       background-color: #FFFFFF;
       justify-content: center;
   } 
-
-  .flex-container > div {
-    background-color: #f1f1f1;
-    width: 447px;
-    height: 102px;
-    top:126px;
-  }
      
   h2 {
     height: 846px;
